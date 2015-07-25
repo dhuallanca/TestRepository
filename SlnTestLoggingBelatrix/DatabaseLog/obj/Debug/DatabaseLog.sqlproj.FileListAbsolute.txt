@@ -1,0 +1,7 @@
+c:\users\dhuallanca\documents\visual studio 2013\Projects\SlnTestLoggingBelatrix\DatabaseLog\bin\Debug\DatabaseLog.dacpac
+c:\users\dhuallanca\documents\visual studio 2013\Projects\SlnTestLoggingBelatrix\DatabaseLog\obj\Debug\Model.xml
+c:\users\dhuallanca\documents\visual studio 2013\Projects\SlnTestLoggingBelatrix\DatabaseLog\obj\Debug\refactor.xml
+c:\users\dhuallanca\documents\visual studio 2013\Projects\SlnTestLoggingBelatrix\DatabaseLog\obj\Debug\postdeploy.sql
+c:\users\dhuallanca\documents\visual studio 2013\Projects\SlnTestLoggingBelatrix\DatabaseLog\obj\Debug\predeploy.sql
+c:\users\dhuallanca\documents\visual studio 2013\Projects\SlnTestLoggingBelatrix\DatabaseLog\obj\Debug\DatabaseLog.dll
+c:\users\dhuallanca\documents\visual studio 2013\Projects\SlnTestLoggingBelatrix\DatabaseLog\obj\Debug\DatabaseLog.pdb

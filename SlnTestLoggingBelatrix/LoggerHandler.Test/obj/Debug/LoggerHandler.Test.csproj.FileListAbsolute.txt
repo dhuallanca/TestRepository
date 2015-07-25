@@ -1,0 +1,12 @@
+c:\users\dhuallanca\documents\visual studio 2013\Projects\SlnTestLoggingBelatrix\LoggerHandler.Test\bin\Debug\LoggerHandler.Test.dll.config
+c:\users\dhuallanca\documents\visual studio 2013\Projects\SlnTestLoggingBelatrix\LoggerHandler.Test\bin\Debug\LoggerHandler.Test.dll
+c:\users\dhuallanca\documents\visual studio 2013\Projects\SlnTestLoggingBelatrix\LoggerHandler.Test\bin\Debug\LoggerHandler.Test.pdb
+c:\users\dhuallanca\documents\visual studio 2013\Projects\SlnTestLoggingBelatrix\LoggerHandler.Test\bin\Debug\LoggerHandler.dll
+c:\users\dhuallanca\documents\visual studio 2013\Projects\SlnTestLoggingBelatrix\LoggerHandler.Test\bin\Debug\nunit.framework.dll
+c:\users\dhuallanca\documents\visual studio 2013\Projects\SlnTestLoggingBelatrix\LoggerHandler.Test\bin\Debug\LoggerHandler.pdb
+c:\users\dhuallanca\documents\visual studio 2013\Projects\SlnTestLoggingBelatrix\LoggerHandler.Test\bin\Debug\nunit.framework.xml
+c:\users\dhuallanca\documents\visual studio 2013\Projects\SlnTestLoggingBelatrix\LoggerHandler.Test\obj\Debug\LoggerHandler.Test.csprojResolveAssemblyReference.cache
+c:\users\dhuallanca\documents\visual studio 2013\Projects\SlnTestLoggingBelatrix\LoggerHandler.Test\obj\Debug\LoggerHandler.Test.dll
+c:\users\dhuallanca\documents\visual studio 2013\Projects\SlnTestLoggingBelatrix\LoggerHandler.Test\obj\Debug\LoggerHandler.Test.pdb
+c:\users\dhuallanca\documents\visual studio 2013\Projects\SlnTestLoggingBelatrix\LoggerHandler.Test\bin\Debug\LoggerDataAccess.dll
+c:\users\dhuallanca\documents\visual studio 2013\Projects\SlnTestLoggingBelatrix\LoggerHandler.Test\bin\Debug\LoggerDataAccess.pdb

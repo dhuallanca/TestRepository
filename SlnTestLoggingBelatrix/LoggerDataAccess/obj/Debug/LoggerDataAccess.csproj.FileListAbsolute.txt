@@ -1,0 +1,4 @@
+c:\users\dhuallanca\documents\visual studio 2013\Projects\SlnTestLoggingBelatrix\LoggerDataAccess\bin\Debug\LoggerDataAccess.dll
+c:\users\dhuallanca\documents\visual studio 2013\Projects\SlnTestLoggingBelatrix\LoggerDataAccess\bin\Debug\LoggerDataAccess.pdb
+c:\users\dhuallanca\documents\visual studio 2013\Projects\SlnTestLoggingBelatrix\LoggerDataAccess\obj\Debug\LoggerDataAccess.dll
+c:\users\dhuallanca\documents\visual studio 2013\Projects\SlnTestLoggingBelatrix\LoggerDataAccess\obj\Debug\LoggerDataAccess.pdb

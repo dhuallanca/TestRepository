@@ -1,0 +1,8 @@
+C:\Users\dhuallanca\Documents\Visual Studio 2013\Projects\SlnTestLoggingBelatrix\LoggerHandler\bin\Debug\LoggerHandler.dll.config
+C:\Users\dhuallanca\Documents\Visual Studio 2013\Projects\SlnTestLoggingBelatrix\LoggerHandler\bin\Debug\LoggerHandler.dll
+C:\Users\dhuallanca\Documents\Visual Studio 2013\Projects\SlnTestLoggingBelatrix\LoggerHandler\bin\Debug\LoggerHandler.pdb
+C:\Users\dhuallanca\Documents\Visual Studio 2013\Projects\SlnTestLoggingBelatrix\LoggerHandler\obj\Debug\LoggerHandler.dll
+C:\Users\dhuallanca\Documents\Visual Studio 2013\Projects\SlnTestLoggingBelatrix\LoggerHandler\obj\Debug\LoggerHandler.pdb
+C:\Users\dhuallanca\Documents\Visual Studio 2013\Projects\SlnTestLoggingBelatrix\LoggerHandler\obj\Debug\LoggerHandler.csprojResolveAssemblyReference.cache
+C:\Users\dhuallanca\Documents\Visual Studio 2013\Projects\SlnTestLoggingBelatrix\LoggerHandler\bin\Debug\LoggerDataAccess.dll
+C:\Users\dhuallanca\Documents\Visual Studio 2013\Projects\SlnTestLoggingBelatrix\LoggerHandler\bin\Debug\LoggerDataAccess.pdb
